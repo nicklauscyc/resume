@@ -1,2 +1,2 @@
 # Resume
-My Resume, updated as of Dec 25, 2019
+My Resume, updated as of Dec 29, 2019
