@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=lualatex 2021.4.23)  17 AUG 2021 16:19
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=lualatex 2021.4.23)  17 AUG 2021 16:21
  restricted system commands enabled.
 **nicklaus-choo-resume.tex
 (./nicklaus-choo-resume.tex
@@ -1154,17 +1154,17 @@ Here is how much of LuaTeX's memory you used:
  664 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 84 glue_spec,
  8 attribute_list, 2 write nodes
-   avail lists: 1:2,2:2186,3:623,4:547,5:1794,6:233,7:12278,8:13,9:1246,10:16,11
+   avail lists: 1:2,2:2186,3:623,4:547,5:1794,6:233,7:12282,8:13,9:1246,10:16,11
 :939
  51574 multiletter control sequences out of 65536+600000
- 93 fonts using 27242679 bytes
+ 93 fonts using 27242599 bytes
  121i,11n,117p,557b,633s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-RegularI
 t.otf></usr/share/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bo
 ld.otf><./fonts/Roboto-Regular.ttf></usr/share/texmf-dist/fonts/opentype/public/
 fontawesome/FontAwesome.otf></usr/share/texmf-dist/fonts/opentype/adobe/sourcesa
 nspro/SourceSansPro-Regular.otf><./fonts/Roboto-Bold.ttf>
-Output written on nicklaus-choo-resume.pdf (1 page, 40165 bytes).
+Output written on nicklaus-choo-resume.pdf (1 page, 40172 bytes).
 
 PDF statistics: 62 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream
