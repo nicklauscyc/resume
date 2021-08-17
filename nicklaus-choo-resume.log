@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=lualatex 2021.4.23)  17 AUG 2021 00:03
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=lualatex 2021.4.23)  17 AUG 2021 15:07
  restricted system commands enabled.
 **nicklaus-choo-resume.tex
 (./nicklaus-choo-resume.tex
@@ -1116,34 +1116,34 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
 (Font)              scaled to size 9.0pt on input line 60.
 ) (./resume/experience.tex) (./resume/technical.tex)
-(./resume/extracurricular.tex) [1
+(./resume/extracurricular.tex [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./nicklaus-choo-resume.au
-x)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) [2] (./nicklaus-choo-resu
+me.aux)
 Package rerunfilecheck Info: File `nicklaus-choo-resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33079 strings out of 478903
+ 33080 strings out of 478903
  125086,1373583 words of node,token memory allocated
  651 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 84 glue_spec,
  7 attribute_list, 2 write nodes
-   avail lists: 1:1,2:2078,3:597,4:527,5:1720,6:217,7:11796,8:13,9:1162,10:16,11
-:905
+   avail lists: 1:1,2:2179,3:605,4:541,5:1754,6:223,7:12020,8:13,9:1196,10:16,11
+:921
  51532 multiletter control sequences out of 65536+600000
- 93 fonts using 27242639 bytes
+ 93 fonts using 27242559 bytes
  121i,11n,117p,557b,584s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-RegularI
 t.otf></usr/share/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bo
 ld.otf><./fonts/Roboto-Regular.ttf></usr/share/texmf-dist/fonts/opentype/public/
 fontawesome/FontAwesome.otf></usr/share/texmf-dist/fonts/opentype/adobe/sourcesa
 nspro/SourceSansPro-Regular.otf><./fonts/Roboto-Bold.ttf>
-Output written on nicklaus-choo-resume.pdf (1 page, 39712 bytes).
+Output written on nicklaus-choo-resume.pdf (2 pages, 40692 bytes).
 
-PDF statistics: 62 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 131072)
+PDF statistics: 66 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
