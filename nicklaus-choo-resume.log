@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=lualatex 2021.4.23)  13 OCT 2021 15:01
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=lualatex 2021.4.23)  18 DEC 2021 08:31
  restricted system commands enabled.
 **nicklaus-choo-resume.tex
 (./nicklaus-choo-resume.tex
@@ -1102,29 +1102,29 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
 (Font)              scaled to size 15.0pt on input line 4.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 63.
+(Font)              scaled to size 10.0pt on input line 65.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 63.
+(Font)              scaled to size 10.0pt on input line 65.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 63.
+(Font)              scaled to size 9.0pt on input line 65.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <9> not availa
 ble
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input
- line 63.
+ line 65.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 63.
+(Font)              scaled to size 9.0pt on input line 65.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 63.
+(Font)              scaled to size 8.0pt on input line 65.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 63.
+(Font)              scaled to size 8.0pt on input line 65.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not availa
 ble
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input
- line 63.
+ line 65.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 63.
+(Font)              scaled to size 8.0pt on input line 65.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
-(Font)              scaled to size 9.0pt on input line 63.
+(Font)              scaled to size 9.0pt on input line 65.
 ) (./resume/experience.tex) (./resume/technical.tex)
 (./resume/extracurricular.tex
 Overfull \hbox (275.15884pt too wide) in paragraph at lines 25--26
@@ -1150,21 +1150,21 @@ Package rerunfilecheck Info: File `nicklaus-choo-resume.out' has not changed.
 
 Here is how much of LuaTeX's memory you used:
  33130 strings out of 478903
- 156364,1373583 words of node,token memory allocated
+ 156366,1373583 words of node,token memory allocated
  664 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 84 glue_spec,
  8 attribute_list, 2 write nodes
-   avail lists: 1:2,2:2214,3:631,4:555,5:1802,6:235,7:12316,8:13,9:1254,10:16,11
-:945
+   avail lists: 1:1,2:2248,3:647,4:555,5:1808,6:239,7:12430,8:13,9:1270,10:16,11
+:957
  51574 multiletter control sequences out of 65536+600000
- 93 fonts using 27242599 bytes
+ 93 fonts using 27242639 bytes
  121i,11n,117p,557b,633s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-RegularI
 t.otf></usr/share/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bo
 ld.otf><./fonts/Roboto-Regular.ttf></usr/share/texmf-dist/fonts/opentype/public/
 fontawesome/FontAwesome.otf></usr/share/texmf-dist/fonts/opentype/adobe/sourcesa
 nspro/SourceSansPro-Regular.otf><./fonts/Roboto-Bold.ttf>
-Output written on nicklaus-choo-resume.pdf (1 page, 40327 bytes).
+Output written on nicklaus-choo-resume.pdf (1 page, 40366 bytes).
 
 PDF statistics: 62 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream
