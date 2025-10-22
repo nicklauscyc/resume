@@ -605,6 +605,7 @@
       {\entrytitlestyle{#2} \entrypositionstyle{#1} \entrylocationstyle{#3} & \entrydatestyle{#4} \\}
     \multicolumn{2}{L{\textwidth}}{\descriptionstyle{#5}}
   \end{tabularx}%
+  \vspace{3.0mm}
 }
 
 % Define an entry of education entry information
