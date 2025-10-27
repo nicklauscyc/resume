@@ -3,7 +3,6 @@
 %-------------------------------------------------------------------------------
 \cvsection{Work Experience}
 
-
 %-------------------------------------------------------------------------------
 %	CONTENT
 %-------------------------------------------------------------------------------
@@ -16,11 +15,24 @@
     {Aug 29, 2022 - Present} % Date(s)
     {
       \begin{cvitems} % Description(s) of tasks/responsibilities
-        \item {Optimized AI/RAG performance on Kubernetes by designing a
-          GPU/TPU/user-defined utilization based load balancing algorithm for
-          Prefix-Cache Aware Routing; this maximized KV-cache hits to slash
-          P90 TTFT latency by 96\%, improve P90 NTPOT by 60\%, and boost
-          throughput by 32\%}
+        % GKE UBB Custom Metrics.
+        \item {Design and Implemented load balancing for ML/server workloads
+          using GPU/TPU/KV-cache utilization. This achieved:}
+        \itemindent=2em
+          \item {96\% faster Time-to-First-Token P90 latency.}
+          \item {60\% faster Normalized-Time-Per-Output-Token P90 latency.}
+          \item {32\% faster overall throughput for prefix-heavy workloads.}
+        \itemindent=0em
+        % Bridge Server Client
+        \item {Design and led the implementation of a multi-threaded,
+          concurrent, sharded load balancing client-server
+          \href{https://cloud.google.com/kubernetes-engine/docs/how-to/expose-custom-metrics}{system} while working
+          with partner teams in Canada and Poland. This achieved:}
+        \itemindent=2em
+        \item {Cloud customers can balance service traffic along any
+          utilization dimension.}
+        \item {Vastly simpler configuration for custom load balancing behavior.}
+        \itemindent=0em
         \item {10x speedup for network design process with 15x reduction in
           memory resources for network topology graph data structures.}
         \item {Wrote graph traversal algorithms to efficiently traverse Google's
@@ -49,59 +61,59 @@
     }
 
 %---------------------------------------------------------
-  \cventry
-    {Full Stack Software Engineer Intern} % Job title
-    {ZODAJ} % Organization
-    {Pittsburgh, PA, USA} % Location
-    {May 18, 2020 - Aug 7, 2020} % Date(s)
-    {
-      \begin{cvitems} % Description(s) of tasks/responsibilities
-        \item {Devised SMS and Android COVID-19 contact tracing for Senegal
-               in partnership with Senegalese health authorities}
-        \item {Designed NoSQL, PostgreSQL databases along with AWS Lambda
-               RESTful API for TCN protocol contact tracing}
-        \item {Directed and implemented all permissions and roles within ZODAJ
-               for Amazon AWS databases}
-        \item {Created exposure overlap algorithm for \textit{n} people in a
-               store that runs in max(O(\textit{k}) or O(\textit{n} log
-               \textit{n})), where \textit{k} is overlap count}
-        \item {Wrote graph algorithms, discrete-time Markov chain SIR epidemic
-               modeling for tracking infections}
-      \end{cvitems}
-    }
+%  \cventry
+%    {Full Stack Software Engineer Intern} % Job title
+%    {ZODAJ} % Organization
+%    {Pittsburgh, PA, USA} % Location
+%    {May 18, 2020 - Aug 7, 2020} % Date(s)
+%    {
+%      \begin{cvitems} % Description(s) of tasks/responsibilities
+%        \item {Devised SMS and Android COVID-19 contact tracing for Senegal
+%               in partnership with Senegalese health authorities}
+%        \item {Designed NoSQL, PostgreSQL databases along with AWS Lambda
+%               RESTful API for TCN protocol contact tracing}
+%        \item {Directed and implemented all permissions and roles within ZODAJ
+%               for Amazon AWS databases}
+%        \item {Created exposure overlap algorithm for \textit{n} people in a
+%               store that runs in max(O(\textit{k}) or O(\textit{n} log
+%               \textit{n})), where \textit{k} is overlap count}
+%        \item {Wrote graph algorithms, discrete-time Markov chain SIR epidemic
+%               modeling for tracking infections}
+%      \end{cvitems}
+%    }
 
 %---------------------------------------------------------
-  \cventry
-    {Linux Systems Engineer Intern (DevOps)} % Job title
-    {BOSCH ASEAN} % Organization
-    {Singapore} % Location
-    {May 21, 2019 - Aug 19, 2019} % Date(s)
-    {
-      \begin{cvitems} % Description(s) of tasks/responsibilities
-        \item {Enabled Jenkins server to run 2 ISO builds in parallel
-               (1 executor, 2 slaves) for testing via dynamic port allocation}
-        \item {Identified bottleneck in debugging failed builds and significantly
-               reduced debug time via
-           auto log extraction from QEMU disks on build servers}
-        \item {Modified Jenkins pipeline to reduce deployment testing from 20 mins to 1 min}
-        \item {Began migration of current inventory servers to new OCS inventory servers via Ansible for seamless configuration}
-        \item {Authored Linux Debian package for unit tests automation (security/functionality) on new OS installations}
-      \end{cvitems}
-    }
+%  \cventry
+%    {Linux Systems Engineer Intern (DevOps)} % Job title
+%    {BOSCH ASEAN} % Organization
+%    {Singapore} % Location
+%    {May 21, 2019 - Aug 19, 2019} % Date(s)
+%    {
+%      \begin{cvitems} % Description(s) of tasks/responsibilities
+%        \item {Enabled Jenkins server to run 2 ISO builds in parallel
+%               (1 executor, 2 slaves) for testing via dynamic port allocation}
+%        \item {Identified bottleneck in debugging failed builds and significantly
+%               reduced debug time via
+%           auto log extraction from QEMU disks on build servers}
+%        \item {Modified Jenkins pipeline to reduce deployment testing from 20 mins to 1 min}
+%        \item {Began migration of current inventory servers to new OCS inventory servers via Ansible for seamless configuration}
+%        \item {Authored Linux Debian package for unit tests automation (security/functionality) on new OS installations}
+%      \end{cvitems}
+%    }
 
 %---------------------------------------------------------
-  \cventry
-    {Data Analytics Intern} % Job title
-    {Eyeota Pte Ltd } % Organization
-    {Singapore} % Location
-    {Dec 13, 2017 – May 10, 2018} % Date(s)
-    {
-      \begin{cvitems} % Description(s) of tasks/responsibilities
-        \item {Programmed data cleaning and classification of advertiser and buyer data from programmatic buy-side platforms}
-        \item {Extracted advertisers’ target demographic trends via both web-scraping and buyers’ purchasing data}
-        \item {Streamlined updates of daily, weekly, and monthly audience data sales revenue via complete process automation}
-      \end{cvitems}
-    }
+%  \cventry
+%    {Data Analytics Intern} % Job title
+%    {Eyeota Pte Ltd } % Organization
+%    {Singapore} % Location
+%    {Dec 13, 2017 – May 10, 2018} % Date(s)
+%    {
+%      \begin{cvitems} % Description(s) of tasks/responsibilities
+%        \item {Programmed data cleaning and classification of advertiser and buyer data from programmatic buy-side platforms}
+%        \item {Extracted advertisers’ target demographic trends via both web-scraping and buyers’ purchasing data}
+%        \item {Streamlined updates of daily, weekly, and monthly audience data sales revenue via complete process automation}
+%      \end{cvitems}
+%    }
 
 %---------------------------------------------------------
 %  \cventry
